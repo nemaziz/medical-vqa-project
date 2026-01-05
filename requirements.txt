@@ -1,0 +1,21 @@
+# Core ML
+torch==2.9.0
+torchvision==0.24.0
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+
+# Multimodal & Transformers
+transformers==4.57.3
+datasets==4.0.0
+
+# Image Processing
+Pillow==11.3.0
+
+# Visualization
+matplotlib==3.10.0
+IPython==7.34.0
+requests==2.32.4
+
+# Progress Bars
+tqdm==4.67.1

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+models/*.pth
+models/*.joblib
+.env
+.ipynb_checkpoints/
+secrets.txt
